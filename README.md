@@ -4,7 +4,7 @@
 ### Summary
 - Strict mode issues on `firebase-bom:29.3.1` specifically on `messaging` and `firestore`
 ### Steps to reproduce
-1. After adding `google-services.json`, 
+1. After adding `google-services.json`
 2. Open app
 3. See logs
 
